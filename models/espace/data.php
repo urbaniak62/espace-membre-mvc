@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '../conection.php');
+require_once(__DIR__ . '../connection.php');
 require_once('../controleur/espace/index.php');
 
 
